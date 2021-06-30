@@ -1,0 +1,11 @@
+.covid-bar{
+    padding-top: 3px;
+    height: 30px;
+    background-color: #2A9D8F;
+    
+}
+span{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}

@@ -1,0 +1,99 @@
+.flash-vente{
+    margin: auto;
+    margin-right: 0px;
+    margin-left: 100px;
+}
+.flash-vente > img{
+    height: 350px;
+}
+.box-page{
+    margin-top: 50px;
+    margin-bottom: 100px;
+    display: flex;
+}
+.box{
+    margin: auto;
+    background-color: white;
+    /* background: linear-gradient(0deg, rgb(255, 204, 146) 0%, rgba(255,255,255,1) 100%); */
+    height: 440px;
+    width: 350px;
+    border-radius: 3px;
+    border: 1px solid black;
+    padding: 25px;
+}
+.box > h2{
+    color: #E76F51;
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+.box > p{
+    font-size: 15px;
+    font-weight: bold;
+}
+.button-continue{
+    margin-top: 10px;
+}
+
+.button-continue > .btn > span{
+    color: black !important;
+    font-weight: 400;
+    
+}
+.btn1{
+        margin-top: 40px;
+
+}
+.button-continue > button{
+    margin-top: 10px;
+    padding-bottom: 28px;
+    width: 300px;
+    height: 30px;
+    background-color: #f0c14b;
+
+}
+.button-continue > h5{
+    color: black;
+    font-weight: lighter;
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+.box > input{
+    width: 300px;
+    height: 30px;
+    border-radius: 4px;
+    outline: none;
+    border: none;
+    border: 1px solid black;
+
+}
+.login-text{
+    margin-top: 15px;
+}
+.login-text > p{
+    color: black;
+    font-weight: lighter;
+    font-size: 14px;
+}
+.login-text1{
+    height: 26px !important;
+    width: 350px;
+    /* background-color: white; */
+    border-radius: 5px;
+    font-weight:500;
+    color: black !important;
+    margin: auto;
+    margin-top: 20px;
+    border: 1px solid black;
+}
+.login-text1 > a {
+    color: black !important;
+    text-decoration: none;
+}
+.mdp > p{
+    color: black;
+    cursor: pointer;
+    font-size: 12px;
+    margin: 0;
+
+}

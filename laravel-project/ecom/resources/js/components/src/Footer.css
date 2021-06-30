@@ -1,0 +1,79 @@
+.footer-title{
+    margin-top: 60px;
+    height: 30px;
+    background-color: #1B3139;
+    padding-top: 9px;
+    font-size: 20px !important;
+}
+.footer-background{
+    background-color: #14242A;
+    padding-left: 15%;
+    padding-bottom: 50px;
+
+}
+.footer-banner{
+    height: auto;
+    /* padding-left: 0px; */
+    max-width: 90rem;
+    margin: 0 auto;
+
+}
+
+.footer-categorie{
+    display: flex;
+}
+h3{
+    color: white;
+    font-weight: 2px;
+    font-size: 20px;
+    text-align: left;
+}
+ul{
+    list-style: none;
+}
+li{
+    /* padding-left: 10px; */
+    padding-top: 10px;
+    text-align: left;
+    font-size: 12px;
+    color: white;
+    list-style: none;
+    font-family: Maven Pro !important;
+}
+a{
+    text-decoration: none;
+    color: white !important;
+}
+.footer-background > a:hover{
+    border-bottom:1px solid white ;
+}
+
+
+.footer-icon{
+    margin-left: 19%;
+    margin-right: 17%;
+    padding-top: 20px;
+
+}
+.footer-icon >img{
+    height: 90px;
+}
+.Copyright > span{
+    font-weight: 0px;
+
+}
+.Copyright{
+    color: white;
+    background-color: #14242A;
+    padding-left: 0px;
+}
+.icons-payments{
+    background-color: #14242A;
+    padding-bottom: 30px;
+}
+.icons-payments >a {
+    padding-left: 30px;
+    border: none;
+
+}
+

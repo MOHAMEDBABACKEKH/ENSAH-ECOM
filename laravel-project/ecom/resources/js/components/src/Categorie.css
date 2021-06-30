@@ -1,0 +1,32 @@
+.categorie{
+    display: flex;
+    /* align-items: center; */
+    margin-bottom: 10px;
+    background: white;
+    max-height: 300px;
+    overflow-x: scroll;
+
+    max-width: 90rem;
+    margin: auto;
+}
+.categorie::-webkit-scrollbar{
+    display: none;
+
+}
+.categorie-section >img{
+    margin-top: 5px;
+    height: 150px;
+}
+
+
+.categorie-section{
+    /* background-color: wheat;
+    height: 180px;
+    width: 180px; */
+    margin: 20px;
+    border-radius: 100%;
+    transition: transform 100ms ease-in;
+}
+.categorie-section:hover{
+    transform: scale(1.2);
+}
